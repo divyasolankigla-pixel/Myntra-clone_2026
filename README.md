@@ -45,6 +45,6 @@
 
 <h2>👤 Author</h2>
 <p>
-  <b>Name:</b> Clestialcosmos <br/>
+  <b>Name:</b> Ms.Diyva Solanki<br/>
   <b>Commit:</b> ecafc83 (Add files via upload)
 </p>
